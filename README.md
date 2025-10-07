@@ -1,24 +1,17 @@
-# Portofolio Fery Wahyu Waskita Putra (Indonesia) — Profesional Rapi
+# Portofolio Fery Wahyu Waskita Putra
 
-Website portofolio sederhana dan elegan (dua warna: navy & biru keabu-abuan) untuk HRD.
-Dibuat dengan HTML + CSS (tanpa build tools).
+Website portofolio profesional yang menampilkan profil, pengalaman, dan keahlian.
 
-## Struktur
-- `index.html` — halaman utama
-- `styles.css` — gaya tampilan
-- (opsional) tambahkan `assets/foto.jpg` lalu sisipkan ke header jika diperlukan
+### Cara Menjalankan
+1. Buka folder di VS Code  
+2. Jalankan dengan ekstensi **Live Server**, atau  
+3. Buka `index.html` langsung di browser
 
-## Cara Jalankan Lokal
-1. Buka folder ini di VS Code
-2. (Opsional) install ekstensi **Live Server**
-3. Klik kanan `index.html` → **Open with Live Server**
-
-## Publish ke GitHub Pages
-1. Push ke repository GitHub
+### Deploy ke GitHub Pages
+1. Upload semua file ke repository GitHub
 2. Buka **Settings → Pages**
-3. Source: **Deploy from a branch**, Branch: **main**, Folder: **/**
-4. **Save** → tunggu hingga situs aktif
-
-## Kustom
-- Ganti warna di `:root` pada `styles.css`
-- Edit teks langsung di `index.html`
+3. Pilih:
+   - Source: `main`
+   - Folder: `/ (root)`
+4. Klik **Save**
+5. Situs aktif di: `https://tkjfery-creator.github.io/portfolio-fery/`
