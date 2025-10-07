@@ -1,17 +1,13 @@
-# Portofolio Fery Wahyu Waskita Putra
+# Portofolio Modern Fery Wahyu Waskita Putra
 
-Website portofolio profesional yang menampilkan profil, pengalaman, dan keahlian.
+Versi modern dengan **mode gelap otomatis** dan **animasi dinamis lembut**.
 
-## Cara Menjalankan
-1. Buka folder di VS Code  
-2. Jalankan dengan ekstensi **Live Server**, atau  
-3. Buka `index.html` langsung di browser
+## Cara Jalankan
+1. Buka folder ini di VS Code.
+2. Jalankan `index.html` dengan **Live Server**, atau buka langsung di browser.
+3. Untuk online, upload ke GitHub → aktifkan **Pages**.
 
-## Deploy ke GitHub Pages
-1. Upload semua file ke repository GitHub
-2. Buka **Settings → Pages**
-3. Pilih:
-   - Source: `main`
-   - Folder: `/ (root)`
-4. Klik **Save**
-5. Situs aktif di: `https://tkjfery-creator.github.io/portfolio-fery/`
+## Fitur
+- 🌙 Mode gelap otomatis
+- ✨ Animasi lembut & efek hover modern
+- 📄 Tombol unduh CV langsung
